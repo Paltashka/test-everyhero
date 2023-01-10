@@ -1,0 +1,162 @@
+[
+    {
+        "id": "622",
+        "name": "Spider-Man",
+        "price": 388,
+        "powerstats": {
+            "intelligence": "null",
+            "strength": "58",
+            "speed": "null",
+            "durability": "null",
+            "power": "null",
+            "combat": "null"
+        },
+        "biography": {
+            "full-name": "Miles Morales",
+            "alter-egos": "No alter egos found.",
+            "place-of-birth": "-",
+            "first-appearance": "Ultimate Comics Fallout #4 (October,2011)",
+            "publisher": "Marvel Comics",
+            "alignment": "good"
+        },
+        "appearance": {
+            "gender": "Male",
+            "race": "Human",
+            "height": "157 cm",
+            "weight": "56 kg",
+            "eye-color": "Brown",
+            "hair-color": "Black"
+        },
+        "work": {
+            "occupation": "Student, adventurer, vigilante",
+            "base": "-"
+        },
+        "connections": {
+            "group-affiliation": "-",
+            "relatives": "-"
+        },
+        "image": {
+            "url": "https://www.superherodb.com/pictures2/portraits/10/100/10647.jpg"
+        }
+    },
+    {
+        "id": "720",
+        "name": "Wonder Woman",
+        "powerstats": {
+            "intelligence": "88",
+            "strength": "100",
+            "speed": "79",
+            "durability": "100",
+            "power": "100",
+            "combat": "100"
+        },
+        "biography": {
+            "full-name": "Diana Prince",
+            "alter-egos": "No alter egos found.",
+            "place-of-birth": "Themyscira",
+            "first-appearance": "All-Star Comics #8 (December,1941)",
+            "publisher": "DC Comics",
+            "alignment": "good"
+        },
+        "appearance": {
+            "gender": "Female",
+            "race": "Amazon",
+            "height": "183 cm",
+            "weight": "74 kg",
+            "eye-color": "Blue",
+            "hair-color": "Black"
+        },
+        "work": {
+            "occupation": "Adventurer, Emissary to the world of Man, Protector of Paradise Island; former Goddess of Truth",
+            "base": "-"
+        },
+        "connections": {
+            "group-affiliation": "Justice League of America, Justice Society of America (pre-Crisis Earth-2 version); All-Star Squadron (pre-Crisis Earth-2 version)",
+            "relatives": "Queen Hippolyta (mother, deceased), Donna Troy (Troia) (magically-created duplicate)"
+        },
+        "price": 444,
+        "image": {
+            "url": "https://www.superherodb.com/pictures2/portraits/10/100/807.jpg"
+        }
+    },
+    {
+        "id": "70",
+        "name": "Batman",
+        "price": 254,
+        "powerstats": {
+            "intelligence": "100",
+            "strength": "26",
+            "speed": "27",
+            "durability": "50",
+            "power": "47",
+            "combat": "100"
+        },
+        "biography": {
+            "full-name": "Bruce Wayne",
+            "alter-egos": "No alter egos found.",
+            "place-of-birth": "Crest Hill, Bristol Township; Gotham County",
+            "first-appearance": "Detective Comics #27",
+            "publisher": "DC Comics",
+            "alignment": "good"
+        },
+        "appearance": {
+            "gender": "Male",
+            "race": "Human",
+            "height": "188 cm",
+            "weight": "95 kg",
+            "eye-color": "blue",
+            "hair-color": "black"
+        },
+        "work": {
+            "occupation": "Businessman",
+            "base": "Batcave, Stately Wayne Manor, Gotham City; Hall of Justice, Justice League Watchtower"
+        },
+        "connections": {
+            "group-affiliation": "Batman Family, Batman Incorporated, Justice League, Outsiders, Wayne Enterprises, Club of Heroes, formerly White Lantern Corps, Sinestro Corps",
+            "relatives": "Damian Wayne (son), Dick Grayson (adopted son), Tim Drake (adopted son), Jason Todd (adopted son), Cassandra Cain (adopted ward)\nMartha Wayne (mother, deceased), Thomas Wayne (father, deceased), Alfred Pennyworth (former guardian), Roderick Kane (grandfather, deceased), Elizabeth Kane (grandmother, deceased), Nathan Kane (uncle, deceased), Simon Hurt (ancestor), Wayne Family"
+        },
+        "image": {
+            "url": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        }
+    },
+    {
+        "id": "527",
+        "name": "Professor X",
+        "powerstats": {
+            "intelligence": 100,
+            "strength": 8,
+            "speed": 12,
+            "durability": 14,
+            "power": 100,
+            "combat": 32
+        },
+        "biography": {
+            "full-name": "Charles Francis Xavier",
+            "alter-egos": "No alter egos found.",
+            "place-of-birth": "New York, New York",
+            "first-appearance": "X-Men #1 (September,1963)",
+            "publisher": "Marvel Comics",
+            "alignment": "good"
+        },
+        "appearance": {
+            "gender": "Male",
+            "race": "Mutant",
+            "height": "183 cm",
+            "weight": "86 kg",
+            "eye-color": "Blue",
+            "hair-color": "No Hair"
+        },
+        "work": {
+            "occupation": "Mutant leader, mutant rights activist, geneticist, teacher, adventurer, heir, formerly headmaster, soldier (US Army)",
+            "base": "Formerly Utopia, San Francisco Bay, California; Genosha; Xavier Institute, Salem Center, Westchester County, New York; Imperial Palace, Chandilar, Shi'ar Empire; Columbia University, Manhattan, New York City, New York"
+        },
+        "connections": {
+            "group-affiliation": "Formerly X-Men (founder; formerly teacher & leader), Illuminati, Genoshan Excalibur, Brotherhood of Evil Mutants (leader), Cadre K, Generation X (founder), Starjammers, The Twelve, New Mutants (founder, teacher & leader), United States Army, X-Corporation",
+            "relatives": "Brian Xavier (father, deceased), Sharon Xavier (mother, deceased), Cassandra Nova (sister), Kurt Marko (stepfather, deceased), Cain Marko (Juggernaut, stepbrother), Lilandra (ex-wife), David Charles Haller (Legion, son, deceased)"
+        },
+        "image": {
+            "url": "https://www.superherodb.com/pictures2/portraits/10/100/113.jpg"
+        },
+        "price": 888
+    }
+]
