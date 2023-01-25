@@ -9,11 +9,16 @@ export class HeroService {
         private heroModel: typeof Hero,
     ) {}
 
-    async findMany(take: number, skip: number): Promise<Hero[]> {
+    async findMany(take: number, skip: number, filter: string): Promise<Hero[]> {
         return this.heroModel.findAll({
             include: [Biography, Appearance, Connections, Image, Powerstats, Work],
             limit: take,
             offset: skip,
+            ...(filter && {
+                where: {
+                    '$appearance.gender$': filter,
+                },
+            }),
         });
     }
 }

@@ -24,7 +24,16 @@ export class HeroController {
         description: 'Number of records to skip',
         example: 0,
     })
-    async findMany(@Query('take') take = 9, @Query('skip') skip = 0): Promise<HeroDto[]> {
-        return await this.heroService.findMany(take, skip).then((heros) => heros.map(HeroDto.transform));
+    @ApiQuery({
+        name: 'filter',
+        description: 'Number of records to skip',
+        example: 'Male',
+    })
+    async findMany(
+        @Query('take') take = 9,
+        @Query('skip') skip = 0,
+        @Query('filter') filter: 'Male' | 'Female' = null,
+    ): Promise<HeroDto[]> {
+        return await this.heroService.findMany(take, skip, filter).then((heros) => heros.map(HeroDto.transform));
     }
 }
